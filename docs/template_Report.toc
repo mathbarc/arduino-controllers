@@ -1,0 +1,35 @@
+\changetocdepth {4}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Lista de ilustra\c {c}\~{o}es}{2}{section*.1}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{3}{chapter.1}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Metodologia}}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}An\IeC {\'a}lise do Circuito}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Fun\IeC {\c c}\IeC {\~a}o de Transfer\IeC {\^e}ncia}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Projeto de Controlador por Aloca\IeC {\c c}\IeC {\~a}o de Polos}{4}{section.2.3}
+\contentsline {section}{\numberline {2.4}Fun\IeC {\c c}\IeC {\~a}o de Transfer\IeC {\^e}ncia da Malha Fechada}{5}{section.2.4}
+\contentsline {section}{\numberline {2.5}Projeto controlador PI}{5}{section.2.5}
+\contentsline {section}{\numberline {2.6}Projeto controlador Dahlin}{6}{section.2.6}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Resultados}}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Resposta do sistema \IeC {\`a} uma entrada em degrau}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Resposta pulsada do sistema ao controlador por aloca\IeC {\c c}\IeC {\~a}o de polos}{8}{section.3.2}
+\contentsline {section}{\numberline {3.3}Controlador PI}{9}{section.3.3}
+\contentsline {section}{\numberline {3.4}Controlador Dahlin}{11}{section.3.4}
+\vspace {\cftbeforechapterskip }
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Controlador Proporcional}}{12}{appendix.A}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Controlador Proporcional Integrativo}}{14}{appendix.B}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Controlador Dahlin}}{16}{appendix.C}

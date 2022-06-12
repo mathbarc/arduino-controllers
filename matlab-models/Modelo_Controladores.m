@@ -1,0 +1,10 @@
+Gs = tf([2066],[1 136.4 2066]);
+T = 0.0018;
+tau = 0.01;
+k=1;
+q = exp(-T/tau);
+z = zpk('z',T);
+Tdh = ((1-q)*z^-k)/(1-q*z^-1 -(1-q)*z^-k);
+dahLin = (1/Gmfz) *(Tdh);
+Gdl = feedback(dahLin*Gmfz,1);
+step(Gdl);
